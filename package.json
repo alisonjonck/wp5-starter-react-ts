@@ -2,7 +2,7 @@
   "name": "wp5-starter-react-ts",
   "version": "1.0.0",
   "scripts": {
-    "lint": "npx eslint src/**",
+    "lint": "eslint .",
     "build": "webpack --mode production",
     "build:dev": "webpack --mode development",
     "start": "webpack-dev-server --open --mode development",
