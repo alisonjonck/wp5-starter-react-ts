@@ -6,12 +6,12 @@
     "build": "webpack --mode production",
     "build:dev": "webpack --mode development",
     "start": "webpack-dev-server --open --mode development",
-    "start:live": "webpack-dev-server --open --mode development --liveReload"
+    "dev": "webpack-dev-server --open --mode development --liveReload"
   },
   "license": "MIT",
   "author": {
-    "name": "Jack Herrington",
-    "email": "jherr@pobox.com"
+    "name": "Alison Henrique Jonck",
+    "email": "alisonjonck@gmail.com"
   },
   "devDependencies": {
     "@babel/core": "7.9.6",
